@@ -1,0 +1,30 @@
+_repo: Outwitting-the-Hun--My-Escape-from-a-German-Prison-Camp_42490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42490-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: O'Brien, Pat
+    deathdate: 1920
+    gutenberg_agent_id: '41714'
+    url: http://www.gutenberg.org/2009/agents/41714
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- World War I
+gutenberg_issued: '2013-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42490'
+  lccn: '18007366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+- !lcsh 'Prisoner-of-war escapes'
+- !lcc 'D501'
+title: 'Outwitting the Hun: My Escape from a German Prison Camp'
+url: http://www.gutenberg.org/ebooks/42490
