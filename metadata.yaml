@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41714'
     url: http://www.gutenberg.org/2009/agents/41714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42490#Outwitting-the-Hun--My-Escape-from-a-German-Prison-Camp
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - World War I
